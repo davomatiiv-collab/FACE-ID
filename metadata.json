@@ -1,0 +1,10 @@
+{
+  "name": "Litsey Face ID - Davomat Tizimi",
+  "description": "Akademik litsey o‘quvchilari davomatini yuzni tanish orqali avtomatlashtirish tizimi (Lokal va oflayn).",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
